@@ -44,7 +44,7 @@ Day 1 (June 13, 1:00pm – 5:00pm)
   - [Introduction to AI/ML](https://docs.google.com/presentation/d/1QqiLijMrdQ5bwjayNeFz2dCx1v8Te4PVy5brscaL-aY/edit?usp=sharing) ([Quiz](https://forms.gle/xqqr4eRbkM6DdZ1g7))
   - [AI/ML Applications in Biology and Chemistry](https://docs.google.com/presentation/d/1z9OktpolGPzeWjN_mz4h61iV22i9Zvf0qTQp5MW7YA4/edit?usp=sharing) ([Quiz](https://forms.gle/GDiDP88bKuJPUxxY9))
 - Live Demo
-  - [Introduction to Google Colab](https://colab.research.google.com/github/udel-cbcb/al_ml_workshop/blob/main/Day_1/Live_Demos/Day_1_Live_Demo_1_Introduction_to_Google_Colab.ipynb)
+  - [Introduction to Google Colab](https://colab.research.google.com/github/carighi/al_ml_workshop/blob/main/Day_1/Live_Demos/Day_1_Live_Demo_1_Introduction_to_Google_Colab.ipynb)
   - [Introduction to NumPy](https://colab.research.google.com/github/udel-cbcb/al_ml_workshop/blob/main/Day_1/Live_Demos/Day_1_Live_Demo_2_Introduction_to_NumPy.ipynb)
   - [Introduction to Pandas](https://colab.research.google.com/github/udel-cbcb/al_ml_workshop/blob/main/Day_1/Live_Demos/Day_1_Live_Demo_3_Introduction_to_Pandas.ipynb)
   - [Predict Gene Family using DNA Sequence](https://colab.research.google.com/github/udel-cbcb/al_ml_workshop/blob/main/Day_1/Live_Demos/Day_1_Live_Demo_4_Predict_Gene_Family_Using_DNA_Sequence.ipynb)
