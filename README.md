@@ -77,4 +77,6 @@ https://github.com/udel-cbcb/al_ml_workshop
   - [Predict Wine types using Deep Learning](https://colab.research.google.com/github/carighi/al_ml_workshop/blob/main/Day_5/Exercises/Day_5_Exercise_1_Predicting_Wine_Types_Deep_Learing.ipynb) ([Solution](Day_5/Exercises/Day_5_Exercise_1_Predicting_Wine_Types_Deep_Learing_Solution.ipynb))
   - [Protein 3D structure prediction using AlphaFold2](https://colab.research.google.com/github/deepmind/alphafold/blob/main/notebooks/AlphaFold.ipynb)
 
-
+<b>Additional exercises</b>
+- Exercises
+  - [Modules 15 and 16](https://colab.research.google.com/github/carighi/al_ml_workshop/blob/main/Additional_exercises/Exercises_additional_1.ipynb) 
