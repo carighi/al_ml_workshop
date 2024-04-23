@@ -25,7 +25,7 @@ https://github.com/udel-cbcb/al_ml_workshop
 
 - Intro to tools and libraries
   - [Introduction to Google Colab](https://colab.research.google.com/github/carighi/al_ml_workshop/blob/main/Module_1/Live_Demos/Day_1_Live_Demo_1_Introduction_to_Google_Colab.ipynb)
-  - [Introduction to NumPy](https://colab.research.google.com/github/carighi/al_ml_workshop/blob/main/Module_1/Live_Demos/Introduction_to_NumPy.ipynb)
+  - [Introduction to NumPy](https://github.com/carighi/al_ml_workshop/blob/main/NumPy_exercises.ipynb)
   - [Introduction to Pandas](https://colab.research.google.com/github/carighi/al_ml_workshop/blob/main/Module_1/Live_Demos/Day_1_Live_Demo_3_Introduction_to_Pandas.ipynb)
   - [Predict Gene Family using DNA Sequence](https://colab.research.google.com/github/carighi/al_ml_workshop/blob/main/Module_1//Live_Demos/Day_1_Live_Demo_4_Predict_Gene_Family_Using_DNA_Sequence.ipynb)
 - Exercises
