@@ -34,12 +34,12 @@ https://github.com/udel-cbcb/al_ml_workshop
 
 <b>Module 18 Data Preparation 1</b>
 - Demo
-  - [Basic Data Cleaning](https://github.com/carighi/al_ml_workshop/blob/main/Basic_Data_Cleaning.ipynb)
-  - [Marking and Removal of Missing Data](https://colab.research.google.com/github/carighi/al_ml_workshop/blob/main/Day_2/Live_Demos/Day_2_Live_Demo_2_Mark_and_Remove_Missing_Data.ipynb)
-  - [Outlier Identification and Removal](https://colab.research.google.com/github/carighi/al_ml_workshop/blob/main/Day_2/Live_Demos/Day_2_Live_Demo_3_Outlier_Identification_and_Removal.ipynb)
-  - [Missing Data Imputation](https://colab.research.google.com/github/carighi/al_ml_workshop/blob/main/Day_2/Live_Demos/Day_2_Live_Demo_4_Missing_Data_Imputation.ipynb)
+  - [Basic Data Cleaning](https://github.com/carighi/al_ml_workshop/blob/main/Basic_Data_Cleaning.ipynb) ([Solution](https://colab.research.google.com/github/carighi/al_ml_workshop/blob/main/Basic_Data_Cleaning_(answer_key).ipynb))
+  - [Marking and Removal of Missing Data](https://colab.research.google.com/github/carighi/al_ml_workshop/blob/main/Mark_and_Remove_Missing_Data.ipynb))([Solution](https://colab.research.google.com/github/carighi/al_ml_workshop/blob/main/Mark_and_Remove_Missing_Data_ipynb_(answer_key).ipynb))
+  - [Outlier Identification and Removal](https://colab.research.google.com/github/carighi/al_ml_workshop/blob/main/Outlier_Identification_and_Removal.ipynb)
+  - [Missing Data Imputation](https://colab.research.google.com/github/carighi/al_ml_workshop/blob/main/Missing_Data_Imputation.ipynb)
 - Exercises
-  - [Data Wrangling Exericse](https://colab.research.google.com/github/carighi/al_ml_workshop/blob/main/Day_2/Exercises/Day_2_Exercise_Data_Wrangling.ipynb) ([Solution](https://colab.research.google.com/github/carighi/al_ml_workshop/blob/main/Day_2/Exercises/Day_2_Exercise_Data_Wrangling_Solution.ipynb))
+  - [Data Wrangling Exericse](https://colab.research.google.com/github/carighi/al_ml_workshop/blob/main/Day_2/Exercises/Day_2_Exercise_Data_Wrangling.ipynb)
 
 <b>Module 19 Feature selection for ML</b>
 - Demo
