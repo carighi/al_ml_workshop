@@ -26,10 +26,9 @@ As well as additional sources that are cited in the corresponding notebooks.
 
 - Intro to tools and libraries
   - [Introduction to Google Colab](https://colab.research.google.com/github/carighi/al_ml_workshop/blob/main/Module_1/Tutorials/Introduction_to_Google_Colab.ipynb)
-  - [Introduction to NumPy]()
-  - [Introduction to Pandas]()
-  - [Predict Gene Family using DNA Sequence](https://colab.research.google.com/github/carighi/al_ml_workshop/blob/main/Module_1//Live_Demos/Day_1_Live_Demo_4_Predict_Gene_Family_Using_DNA_Sequence.ipynb)
+  - [Introduction to NumPy](https://colab.research.google.com/github/carighi/al_ml_workshop/blob/main/Numpy_Pandas/Intro_to_Numpy.ipynb)
+  - [Introduction to Pandas](https://colab.research.google.com/github/carighi/al_ml_workshop/blob/main/Numpy_Pandas/Introduction_to_Pandas.ipynb)
+  
 - Exercises
-  - [NumPy Exercise]()
-  - [Pandas Exercise]() 
+  - [Pandas Exercise](https://colab.research.google.com/github/carighi/al_ml_workshop/blob/main/Numpy_Pandas/Exercise_Pandas.ipynb) 
 
